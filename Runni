@@ -1,0 +1,6 @@
+💻 Running the Application
+Launch the Streamlit web dashboard:
+
+Bash
+streamlit run streamlit_app.py
+Open your browser at http://localhost:8501 to start generating software architecture reports.
